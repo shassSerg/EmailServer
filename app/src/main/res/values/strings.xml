@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">ESTMP</string>
+    <string name="action_clear">Clear connected</string>
+    <string name="action_clear_mail">Clear mail</string>
+    <string name="action_update">Update</string>
+
+    <string name="labeldomain">Domain</string>
+    <string name="labelport">Port</string>
+    <string name="labelport_ssl">Port SSL</string>
+    <string name="labelpassword">Password to certificate</string>
+    <string name="labelcert">Path to certificate...</string>
+    <string name="portSSLlabel">SSL</string>
+    <string name="basiclabel">Basic settings</string>
+
+    <string name="labelmailbox">Mail Box</string>
+    <string name="connected">Connected: </string>
+    <string name="sent">Sent: </string>
+    <string name="received">Received: </string>
+
+
+    <string name="errorstart">Error start server: </string>
+    <string name="errorloadpar">Error load settings: </string>
+    <string name="errorsavepar">Error save settings: </string>
+    <string name="errorcheckpar">Error check settings: </string>
+    <string name="errorstop">Error stop server: </string>
+
+    <string name="start">APPLY AND START SERVER</string>
+    <string name="stop">STOP SERVER</string>
+
+    <string name="SETTINGS_DOMAIN">DOMAIN</string>
+    <string name="SETTINGS_PORT">PORT</string>
+    <string name="SETTINGS_SSL">SSL</string>
+    <string name="SETTINGS_PATH">PATH_TO_CERT</string>
+    <string name="SETTINGS_PASS">CERT_PASS</string>
+    <string name="SETTINGS_PORT_SSL">PORT_SSL</string>
+    <string name="title_activity_mail_box">MailBox Stats</string>
+
+    <string name="title_connected">Connected</string>
+    <string name="title_mail">Mail</string>
+
+
+    <string name="tvconnectedcount">Connected count: </string>
+
+    <string name="tvFrom">From: </string>
+    <string name="tvTo">To: </string>
+    <string name="tvSubject">Subject: </string>
+    <string name="title_activity_edit_mail">Mail</string>
+
+    <string name="labelDomain">Domain</string>
+    <string name="labelFrom">From</string>
+    <string name="labelTo">To</string>
+    <string name="labelSubject">Subject</string>
+    <string name="labelBody">Body</string>
+
+    <string name="MAIL_DOMAIN">DOMAIN</string>
+    <string name="MAIL_FROM">FROM</string>
+    <string name="MAIL_TO">TO</string>
+    <string name="MAIL_SUBJECT">SUBJECT</string>
+    <string name="MAIL_DATE">DATE</string>
+    <string name="MAIL_BODY">BODY</string>
+
+</resources>
